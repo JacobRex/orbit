@@ -138,9 +138,7 @@ const WebpackConfigBuild = merge(WebpackConfigBase, {
 					gitignore: true,
 				},
 				to: 'docs/',
-				transformPath(targetPath) {
-					return targetPath.replace('src/components/', '');
-				},
+				transformPath: (targetPath) => targetPath.replace('src/components/', ''),
 			},
 		]),
 
