@@ -31,7 +31,8 @@
   },
   "files": [
     "utils",
-    "components",
+		"components",
+		"docs",
     "*.{css,css.map}"
   ],
   "os": [
