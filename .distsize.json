@@ -1,6 +1,6 @@
 {
-  "hash": "0e712279827de0b212f7",
-  "totalSize": {"raw":[1203693,"1.15 MB"],"gzip":[374112,"365.34 KB"]},
+  "hash": "e705b4e074df8d7243db",
+  "totalSize": {"raw":[1214300,"1.16 MB"],"gzip":[379535,"370.64 KB"]},
   "assets": [
     {
       "name": "components/Accordion.js",
@@ -415,12 +415,48 @@
       "size": {"raw":[3774,"3.69 KB"],"gzip":[1407,"1.37 KB"]}
     },
     {
+      "name": "docs/Tile/doc/shapes/1-1.svg",
+      "size": {"raw":[291,"291 B"],"gzip":[191,"191 B"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/3-4.svg",
+      "size": {"raw":[291,"291 B"],"gzip":[193,"193 B"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/4-3.svg",
+      "size": {"raw":[289,"289 B"],"gzip":[189,"189 B"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/circle.svg",
+      "size": {"raw":[191,"191 B"],"gzip":[156,"156 B"]}
+    },
+    {
       "name": "docs/Tiles/doc/circle-plus.svg",
       "size": {"raw":[847,"847 B"],"gzip":[385,"385 B"]}
     },
     {
       "name": "docs/Tiles/doc/filled-check.svg",
       "size": {"raw":[503,"503 B"],"gzip":[302,"302 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/classic.svg",
+      "size": {"raw":[2716,"2.65 KB"],"gzip":[1293,"1.26 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/elegant.svg",
+      "size": {"raw":[1872,"1.83 KB"],"gzip":[929,"929 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/modern.svg",
+      "size": {"raw":[997,"997 B"],"gzip":[521,"521 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/strong.svg",
+      "size": {"raw":[2300,"2.25 KB"],"gzip":[1106,"1.08 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/vintage.svg",
+      "size": {"raw":[1660,"1.62 KB"],"gzip":[845,"845 B"]}
     },
     {
       "name": "docs/Tiles/doc/icon-event.svg",
