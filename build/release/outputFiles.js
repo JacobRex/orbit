@@ -7,6 +7,7 @@ const { entry, output } = config;
 
 const files = [
 	'vars.css',
+	'docs',
 ];
 
 for (const destPath in entry) {

@@ -126,10 +126,21 @@ const WebpackConfigBuild = merge(WebpackConfigBase, {
 			},
 		}),
 
-		new CopyWebpackPlugin([{
-			from: 'src/styles/vars.css',
-			to: 'vars.css',
-		}]),
+		new CopyWebpackPlugin([
+			{
+				from: 'src/styles/vars.css',
+				to: 'vars.css',
+			},
+			{
+				from: 'src/components/**/doc/*',
+				globOptions: {
+					dot: true,
+					gitignore: true,
+				},
+				to: 'docs/',
+				transformPath: (targetPath) => targetPath.replace('src/components/', ''),
+			},
+		]),
 
 		new Distsize({
 			filter: (asset) => (
