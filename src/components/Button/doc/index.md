@@ -641,27 +641,3 @@ Placement also matters. Here are some rules to following when deciding where to 
 
 ### Don't
 * Make it complicated. If there is important info, place it near the button, as in “This will replace existing card”
-
-
-## API
-
-### Attributes
-
-All [native button attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button) and [anchor tag attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) will work on the Button component.
-
-### Attributes
-| Name | Type | Default | Description |
-| ---- | ---- |-------- |------------ |
-| `type` | `String` | `'button'` | Type of the button element. Ignored on buttons with `href`. |
-| `variant` | `String`<br>`normal`, `primary`, `secondary`, `destructive`, `destructive-secondary`, `muted`, `text`, `upgrade`, `upgrade-secondary`, `dark`, `subtle` | `'normal'` | Changes button style. |
-| `size` | `String`<br>`small`, `medium`, `large` | `'medium'` | Button size |
-| `href` | `String`, `Object` | - | Changes element to an `<a>` |
-| `disabled` | `Boolean` | `false` | Disables the button. |
-| `full-width` | `Boolean` | `false` | Allows the button to grow to the width of its container. |
-| `loading` | `Boolean` | `false` | Disables the button and replaces the content with a loading spinner. |
-| `selected` | `Boolean` | `false` | Whether or not the button appears selected. |
-
-## Events
-| Name         | Parameters         | Triggers when...   |
-| ------------ | ----------------- | ------------- |
-| `update:selected` | `New value` | The selected property is updated. |
