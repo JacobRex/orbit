@@ -1,6 +1,6 @@
 {
-  "hash": "8f9881c2c70573281bfb",
-  "totalSize": {"raw":[777814,"759.58 KB"],"gzip":[243931,"238.21 KB"]},
+  "hash": "351133a1689f439f1264",
+  "totalSize": {"raw":[1212967,"1.16 MB"],"gzip":[379072,"370.19 KB"]},
   "assets": [
     {
       "name": "components/Accordion.js",
@@ -213,6 +213,314 @@
     {
       "name": "components/ZeroState.js",
       "size": {"raw":[5955,"5.82 KB"],"gzip":[1998,"1.95 KB"]}
+    },
+    {
+      "name": "docs/Accordion/doc/index.md",
+      "size": {"raw":[7141,"6.97 KB"],"gzip":[2059,"2.01 KB"]}
+    },
+    {
+      "name": "docs/Alert/doc/index.md",
+      "size": {"raw":[9548,"9.32 KB"],"gzip":[3066,"2.99 KB"]}
+    },
+    {
+      "name": "docs/Autocomplete/doc/index.md",
+      "size": {"raw":[21435,"20.93 KB"],"gzip":[6153,"6.01 KB"]}
+    },
+    {
+      "name": "docs/Blade/doc/index.md",
+      "size": {"raw":[6188,"6.04 KB"],"gzip":[2254,"2.2 KB"]}
+    },
+    {
+      "name": "docs/Breadcrumb/doc/index.md",
+      "size": {"raw":[2572,"2.51 KB"],"gzip":[709,"709 B"]}
+    },
+    {
+      "name": "docs/Button/doc/index.md",
+      "size": {"raw":[12008,"11.73 KB"],"gzip":[3299,"3.22 KB"]}
+    },
+    {
+      "name": "docs/ButtonGroup/doc/index.md",
+      "size": {"raw":[8452,"8.25 KB"],"gzip":[2250,"2.2 KB"]}
+    },
+    {
+      "name": "docs/Card/doc/envelope.svg",
+      "size": {"raw":[1840,"1.8 KB"],"gzip":[840,"840 B"]}
+    },
+    {
+      "name": "docs/Card/doc/index.md",
+      "size": {"raw":[11328,"11.06 KB"],"gzip":[3605,"3.52 KB"]}
+    },
+    {
+      "name": "docs/Card/doc/megaphone.svg",
+      "size": {"raw":[4298,"4.2 KB"],"gzip":[1899,"1.85 KB"]}
+    },
+    {
+      "name": "docs/Card/doc/tag.svg",
+      "size": {"raw":[3550,"3.47 KB"],"gzip":[1527,"1.49 KB"]}
+    },
+    {
+      "name": "docs/Checkbox/doc/index.md",
+      "size": {"raw":[4912,"4.8 KB"],"gzip":[1654,"1.62 KB"]}
+    },
+    {
+      "name": "docs/Checklist/doc/index.md",
+      "size": {"raw":[3203,"3.13 KB"],"gzip":[1057,"1.03 KB"]}
+    },
+    {
+      "name": "docs/Colorpicker/doc/index.md",
+      "size": {"raw":[4339,"4.24 KB"],"gzip":[1414,"1.38 KB"]}
+    },
+    {
+      "name": "docs/Datepicker/doc/index.md",
+      "size": {"raw":[3520,"3.44 KB"],"gzip":[987,"987 B"]}
+    },
+    {
+      "name": "docs/DescriptionList/doc/index.md",
+      "size": {"raw":[2633,"2.57 KB"],"gzip":[818,"818 B"]}
+    },
+    {
+      "name": "docs/Divider/doc/index.md",
+      "size": {"raw":[2110,"2.06 KB"],"gzip":[1067,"1.04 KB"]}
+    },
+    {
+      "name": "docs/Drag/doc/index.md",
+      "size": {"raw":[8498,"8.3 KB"],"gzip":[2594,"2.53 KB"]}
+    },
+    {
+      "name": "docs/Form/doc/index.md",
+      "size": {"raw":[12045,"11.76 KB"],"gzip":[3575,"3.49 KB"]}
+    },
+    {
+      "name": "docs/Grid/doc/index.md",
+      "size": {"raw":[10718,"10.47 KB"],"gzip":[2117,"2.07 KB"]}
+    },
+    {
+      "name": "docs/Heading/doc/index.md",
+      "size": {"raw":[3464,"3.38 KB"],"gzip":[1144,"1.12 KB"]}
+    },
+    {
+      "name": "docs/Hovertip/doc/index.md",
+      "size": {"raw":[3196,"3.12 KB"],"gzip":[1272,"1.24 KB"]}
+    },
+    {
+      "name": "docs/Icon/doc/index.md",
+      "size": {"raw":[3825,"3.74 KB"],"gzip":[1566,"1.53 KB"]}
+    },
+    {
+      "name": "docs/Input/doc/index.md",
+      "size": {"raw":[4883,"4.77 KB"],"gzip":[1717,"1.68 KB"]}
+    },
+    {
+      "name": "docs/Layer/doc/index.md",
+      "size": {"raw":[10590,"10.34 KB"],"gzip":[3381,"3.3 KB"]}
+    },
+    {
+      "name": "docs/Layout/doc/index.md",
+      "size": {"raw":[14036,"13.71 KB"],"gzip":[3323,"3.25 KB"]}
+    },
+    {
+      "name": "docs/Loading/doc/index.md",
+      "size": {"raw":[2173,"2.12 KB"],"gzip":[881,"881 B"]}
+    },
+    {
+      "name": "docs/Modal/doc/index.md",
+      "size": {"raw":[18276,"17.85 KB"],"gzip":[5080,"4.96 KB"]}
+    },
+    {
+      "name": "docs/Nav/doc/index.md",
+      "size": {"raw":[10071,"9.83 KB"],"gzip":[2232,"2.18 KB"]}
+    },
+    {
+      "name": "docs/NestedDrag/doc/index.md",
+      "size": {"raw":[14925,"14.58 KB"],"gzip":[3778,"3.69 KB"]}
+    },
+    {
+      "name": "docs/Notice/doc/index.md",
+      "size": {"raw":[4943,"4.83 KB"],"gzip":[1421,"1.39 KB"]}
+    },
+    {
+      "name": "docs/NumberFormat/doc/index.md",
+      "size": {"raw":[6574,"6.42 KB"],"gzip":[1663,"1.62 KB"]}
+    },
+    {
+      "name": "docs/Pagination/doc/index.md",
+      "size": {"raw":[4728,"4.62 KB"],"gzip":[1437,"1.4 KB"]}
+    },
+    {
+      "name": "docs/Password/doc/index.md",
+      "size": {"raw":[1537,"1.5 KB"],"gzip":[715,"715 B"]}
+    },
+    {
+      "name": "docs/Popover/doc/index.md",
+      "size": {"raw":[8892,"8.68 KB"],"gzip":[2249,"2.2 KB"]}
+    },
+    {
+      "name": "docs/ProgressBar/doc/index.md",
+      "size": {"raw":[1528,"1.49 KB"],"gzip":[597,"597 B"]}
+    },
+    {
+      "name": "docs/Radio/doc/index.md",
+      "size": {"raw":[4373,"4.27 KB"],"gzip":[1275,"1.25 KB"]}
+    },
+    {
+      "name": "docs/Schooltip/doc/index.md",
+      "size": {"raw":[11831,"11.55 KB"],"gzip":[3091,"3.02 KB"]}
+    },
+    {
+      "name": "docs/Search/doc/index.md",
+      "size": {"raw":[1767,"1.73 KB"],"gzip":[877,"877 B"]}
+    },
+    {
+      "name": "docs/Section/doc/index.md",
+      "size": {"raw":[9901,"9.67 KB"],"gzip":[2781,"2.72 KB"]}
+    },
+    {
+      "name": "docs/Select/doc/index.md",
+      "size": {"raw":[4196,"4.1 KB"],"gzip":[1305,"1.27 KB"]}
+    },
+    {
+      "name": "docs/Sheet/doc/index.md",
+      "size": {"raw":[9245,"9.03 KB"],"gzip":[3154,"3.08 KB"]}
+    },
+    {
+      "name": "docs/Skeleton/doc/index.md",
+      "size": {"raw":[3579,"3.5 KB"],"gzip":[1375,"1.34 KB"]}
+    },
+    {
+      "name": "docs/Slider/doc/index.md",
+      "size": {"raw":[2928,"2.86 KB"],"gzip":[819,"819 B"]}
+    },
+    {
+      "name": "docs/Steps/doc/index.md",
+      "size": {"raw":[5528,"5.4 KB"],"gzip":[1322,"1.29 KB"]}
+    },
+    {
+      "name": "docs/Table/doc/index.md",
+      "size": {"raw":[19837,"19.37 KB"],"gzip":[5332,"5.21 KB"]}
+    },
+    {
+      "name": "docs/Tabs/doc/index.md",
+      "size": {"raw":[6719,"6.56 KB"],"gzip":[1792,"1.75 KB"]}
+    },
+    {
+      "name": "docs/Tag/doc/index.md",
+      "size": {"raw":[878,"878 B"],"gzip":[425,"425 B"]}
+    },
+    {
+      "name": "docs/Textarea/doc/index.md",
+      "size": {"raw":[2909,"2.84 KB"],"gzip":[1165,"1.14 KB"]}
+    },
+    {
+      "name": "docs/Tile/doc/index.md",
+      "size": {"raw":[3774,"3.69 KB"],"gzip":[1407,"1.37 KB"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/1-1.svg",
+      "size": {"raw":[291,"291 B"],"gzip":[191,"191 B"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/3-4.svg",
+      "size": {"raw":[291,"291 B"],"gzip":[193,"193 B"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/4-3.svg",
+      "size": {"raw":[289,"289 B"],"gzip":[189,"189 B"]}
+    },
+    {
+      "name": "docs/Tile/doc/shapes/circle.svg",
+      "size": {"raw":[191,"191 B"],"gzip":[156,"156 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/circle-plus.svg",
+      "size": {"raw":[847,"847 B"],"gzip":[385,"385 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/filled-check.svg",
+      "size": {"raw":[503,"503 B"],"gzip":[302,"302 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/classic.svg",
+      "size": {"raw":[2716,"2.65 KB"],"gzip":[1293,"1.26 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/elegant.svg",
+      "size": {"raw":[1872,"1.83 KB"],"gzip":[929,"929 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/modern.svg",
+      "size": {"raw":[997,"997 B"],"gzip":[521,"521 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/strong.svg",
+      "size": {"raw":[2300,"2.25 KB"],"gzip":[1106,"1.08 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/font-categories/vintage.svg",
+      "size": {"raw":[1660,"1.62 KB"],"gzip":[845,"845 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/icon-event.svg",
+      "size": {"raw":[1367,"1.33 KB"],"gzip":[497,"497 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/icon-ordering.svg",
+      "size": {"raw":[2341,"2.29 KB"],"gzip":[1083,"1.06 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/icon-physical.svg",
+      "size": {"raw":[935,"935 B"],"gzip":[442,"442 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/icon-reservations.svg",
+      "size": {"raw":[605,"605 B"],"gzip":[340,"340 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/index.md",
+      "size": {"raw":[14305,"13.97 KB"],"gzip":[3610,"3.53 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/layout-1.svg",
+      "size": {"raw":[1897,"1.85 KB"],"gzip":[541,"541 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/layout-2.svg",
+      "size": {"raw":[2115,"2.07 KB"],"gzip":[550,"550 B"]}
+    },
+    {
+      "name": "docs/Tiles/doc/layout-3.svg",
+      "size": {"raw":[3687,"3.6 KB"],"gzip":[1111,"1.08 KB"]}
+    },
+    {
+      "name": "docs/Tiles/doc/layout-4.svg",
+      "size": {"raw":[3883,"3.79 KB"],"gzip":[1116,"1.09 KB"]}
+    },
+    {
+      "name": "docs/Toast/doc/highfive.svg",
+      "size": {"raw":[15346,"14.99 KB"],"gzip":[6633,"6.48 KB"]}
+    },
+    {
+      "name": "docs/Toast/doc/index.md",
+      "size": {"raw":[14380,"14.04 KB"],"gzip":[4178,"4.08 KB"]}
+    },
+    {
+      "name": "docs/Toggle/doc/index.md",
+      "size": {"raw":[2881,"2.81 KB"],"gzip":[1059,"1.03 KB"]}
+    },
+    {
+      "name": "docs/Upload/doc/images.svg",
+      "size": {"raw":[1596,"1.56 KB"],"gzip":[692,"692 B"]}
+    },
+    {
+      "name": "docs/Upload/doc/index.md",
+      "size": {"raw":[8064,"7.88 KB"],"gzip":[2409,"2.35 KB"]}
+    },
+    {
+      "name": "docs/ZeroState/doc/index.md",
+      "size": {"raw":[4831,"4.72 KB"],"gzip":[1585,"1.55 KB"]}
+    },
+    {
+      "name": "docs/ZeroState/doc/tag.svg",
+      "size": {"raw":[3519,"3.44 KB"],"gzip":[1665,"1.63 KB"]}
     },
     {
       "name": "styles.css",

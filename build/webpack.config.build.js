@@ -132,7 +132,7 @@ const WebpackConfigBuild = merge(WebpackConfigBase, {
 				to: 'vars.css',
 			},
 			{
-				from: 'src/components/**/doc/',
+				from: 'src/components/**/doc/**/*',
 				globOptions: {
 					dot: true,
 					gitignore: true,
