@@ -22,6 +22,12 @@
 		@click="selectButton"
 	>
 		<spacer>
+			<!--
+				The default slot automatically applies spacing between all elments placed inside.
+				This means you can add your text and an <o-icon> to a button without needing to
+				apply flex styles or margins.
+			-->
+
 			<slot />
 		</spacer>
 		<fade-transition>
@@ -73,7 +79,6 @@ export default {
 	props: {
 		/**
 		 * Type of the button element. Ignored on buttons with `href`.
-		 * @dontDemo true
 		*/
 		type: {
 			type: String,
