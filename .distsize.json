@@ -1,6 +1,6 @@
 {
-  "hash": "351133a1689f439f1264",
-  "totalSize": {"raw":[1212967,"1.16 MB"],"gzip":[379072,"370.19 KB"]},
+  "hash": "035dd201665a0580366e",
+  "totalSize": {"raw":[1201218,"1.15 MB"],"gzip":[375950,"367.14 KB"]},
   "assets": [
     {
       "name": "components/Accordion.js",
@@ -236,7 +236,7 @@
     },
     {
       "name": "docs/Button/doc/index.md",
-      "size": {"raw":[12008,"11.73 KB"],"gzip":[3299,"3.22 KB"]}
+      "size": {"raw":[259,"259 B"],"gzip":[177,"177 B"]}
     },
     {
       "name": "docs/ButtonGroup/doc/index.md",
